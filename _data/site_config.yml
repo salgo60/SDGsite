@@ -100,19 +100,17 @@ frontpage_cards:
     button_label: Read more
     button_link: 'https://example.com'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Sälgö SDG
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Test konfigurera ett SDG
     include: ''
-    button_label: Read more
+    button_label: Läs vidare
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Our data for Sustainable Development Goal indicators
+  title: Mitt data för ett hållbart liv med indikatorer
   description: >-
-    Click on each goal for our Sustainable Development Goal global indicator
-    data.
+    Klicka på varje mål för mina hållbarhets indikatorer
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
