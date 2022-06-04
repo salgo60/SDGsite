@@ -70,9 +70,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: salgo60@msn.com
+  suggestions: salgo60@msn.com
+  functional: salgo60@msn.com
 environment: staging
 favicons: favicon.io
 footer_language_toggle: none
